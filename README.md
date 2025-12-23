@@ -1,16 +1,25 @@
-## Hi there 👋
+# Shorya
 
-<!--
-**shorya-k-tiwari/shorya-k-tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Python • Mathematics • AI  
+Building toward ML & research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- Python language mastery
+- Mathematical problem solving
+- Foundations for Machine Learning
+
+---
+
+### Direction
+- Research-oriented AI
+- Strong math + computation base
+- Long-term goal: MBZUAI-level rigor
+
+---
+
+### Tools
+- Python
+- Git
+- VS Code
